@@ -1,0 +1,31 @@
+{
+    "token": "OTYzMTExNjQyNzI2NTM1MjU5.YlRVnQ.wpdEDnFJDdgqfZtxDIuUVR5aAN8",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/963117076648722532/EsJw2-8X4XHRfRWYYylcOJiZb-LbDRWxckmpaqWxvcQimQoELCKi9KtSfxwhz47azP6y": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=208&catalog[]=76&order=newest_first&brand_id[]=53",
+            "salon": "test"
+        },
+        "https://discord.com/api/webhooks/963122253527154698/SoVmufOjrul0CpU6NjVaH_jhRWrKz6fofo_qsHuVClph7Ec8623HPEWMrckhSqrGqhRT": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=208&catalog[]=79&order=newest_first&price_from=0&currency=EUR&price_to=50&brand_id[]=441",
+            "salon": "stussy-tshirt"
+        },
+        "https://discord.com/api/webhooks/963122551247208458/EhdAkYnSSVw0zHsn4qASV3TjGmB3_h5KS3JlxNApU7r_vvTdyK4eZxg1EQxjFmBM_JPJ": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=208&order=newest_first&price_from=0&currency=EUR&brand_id[]=441&price_to=15",
+            "salon": "stussy-tshirt"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
